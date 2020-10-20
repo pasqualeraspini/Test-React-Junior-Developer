@@ -1,0 +1,92 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "model": "Ray-Ban Wayfarer",
+      "sku": "RB3210 2112A",
+      "imgUrl": "https://www.mauijim.com/medias/MJO2122-02.png?context=bWFzdGVyfGltYWdlc3wxMTM2Njd8aW1hZ2UvcG5nfGltYWdlcy9oY2MvaDdkLzkwMzY3ODk4MDkxODIucG5nfDQ5MWFjM2E5ZDhkMGJiMmEzMGNhZTJkNDY3OWViZjkyOTBmMzlhOWEwNjZiMGFkZDQ0ODg0MTk0OTllOWM2ZmE",
+      "totalQty": 1,
+      "qtySizeM": 1,
+      "qtySizeL": 0,
+      "addedQtyM": 0,
+      "addedQtyL": 0,
+      "selectedSize": null,
+      "sizes": [
+        "50",
+        "52"
+      ],
+      "oldPrice": "152,00",
+      "newPrice": 121.6
+    },
+    {
+      "id": 2,
+      "model": "Ray-Ban Round",
+      "sku": "RB9210 11492",
+      "imgUrl": "https://www.mauijim.com/medias/MJO2122-02.png?context=bWFzdGVyfGltYWdlc3wxMTM2Njd8aW1hZ2UvcG5nfGltYWdlcy9oY2MvaDdkLzkwMzY3ODk4MDkxODIucG5nfDQ5MWFjM2E5ZDhkMGJiMmEzMGNhZTJkNDY3OWViZjkyOTBmMzlhOWEwNjZiMGFkZDQ0ODg0MTk0OTllOWM2ZmE",
+      "totalQty": 4,
+      "qtySizeM": 1,
+      "qtySizeL": 3,
+      "addedQtyM": 0,
+      "addedQtyL": 0,
+      "selectedSize": null,
+      "sizes": [
+        "50",
+        "52"
+      ],
+      "oldPrice": false,
+      "newPrice": 166
+    },
+    {
+      "id": 3,
+      "model": "Ray-Ban Clubmaster",
+      "sku": "RB3594 9093C8 53",
+      "imgUrl": "https://www.mauijim.com/medias/MJO2122-02.png?context=bWFzdGVyfGltYWdlc3wxMTM2Njd8aW1hZ2UvcG5nfGltYWdlcy9oY2MvaDdkLzkwMzY3ODk4MDkxODIucG5nfDQ5MWFjM2E5ZDhkMGJiMmEzMGNhZTJkNDY3OWViZjkyOTBmMzlhOWEwNjZiMGFkZDQ0ODg0MTk0OTllOWM2ZmE",
+      "totalQty": 4,
+      "qtySizeM": 3,
+      "qtySizeL": 1,
+      "addedQtyM": 0,
+      "addedQtyL": 0,
+      "selectedSize": null,
+      "sizes": [
+        "50",
+        "52"
+      ],
+      "oldPrice": false,
+      "newPrice": 150.6
+    },
+    {
+      "id": 4,
+      "model": "Ray-Ban RB3594",
+      "sku": "RB3594 2345 53",
+      "imgUrl": "https://www.mauijim.com/medias/MJO2122-02.png?context=bWFzdGVyfGltYWdlc3wxMTM2Njd8aW1hZ2UvcG5nfGltYWdlcy9oY2MvaDdkLzkwMzY3ODk4MDkxODIucG5nfDQ5MWFjM2E5ZDhkMGJiMmEzMGNhZTJkNDY3OWViZjkyOTBmMzlhOWEwNjZiMGFkZDQ0ODg0MTk0OTllOWM2ZmE",
+      "totalQty": 1,
+      "qtySizeM": 0,
+      "qtySizeL": 1,
+      "addedQtyM": 0,
+      "addedQtyL": 0,
+      "selectedSize": "53",
+      "sizes": [
+        "53"
+      ],
+      "oldPrice": false,
+      "newPrice": 250.9
+    },
+    {
+      "id": 5,
+      "model": "Ray-Ban Aviator",
+      "sku": "RB6211 5122A 50",
+      "imgUrl": "https://www.mauijim.com/medias/MJO2122-02.png?context=bWFzdGVyfGltYWdlc3wxMTM2Njd8aW1hZ2UvcG5nfGltYWdlcy9oY2MvaDdkLzkwMzY3ODk4MDkxODIucG5nfDQ5MWFjM2E5ZDhkMGJiMmEzMGNhZTJkNDY3OWViZjkyOTBmMzlhOWEwNjZiMGFkZDQ0ODg0MTk0OTllOWM2ZmE",
+      "totalQty": 2,
+      "qtySizeM": 2,
+      "qtySizeL": 0,
+      "addedQtyM": 0,
+      "addedQtyL": 0,
+      "selectedSize": "50",
+      "sizes": [
+        "50"
+      ],
+      "oldPrice": false,
+      "newPrice": 150.9
+    }
+  ]
+}
